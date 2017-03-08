@@ -1,0 +1,13 @@
+<view class="center-container">
+  <view class="item">
+    <image src="../../images/logo.jpg" class="logo-image"></image>
+    <image src="../../images/bei2.jpg" class="user-img"></image>
+    
+  </view>
+  <view class="user-info">
+        <text>
+        {{username}}
+        <!--ahdhs-->
+        </text>
+    </view>
+</view>
